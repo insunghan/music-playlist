@@ -21,7 +21,7 @@ On Spotify, I focus on personal listening and genre/year tagging.
 
 ## 🎬 YouTube – K-pop Intro & Discovery (6 Playlists)
 
-Helping newcomers explore K-pop in an easy and engaging way:
+Helping newcomers explore K-pop in an easy and engaging way—covering a broad spectrum beyond just idol groups:
 
 - [K-rock best vol.1](https://www.youtube.com/watch?v=Y1Gyf1ImwL0)
 - [K-pop best movie OST vol.1](https://www.youtube.com/watch?v=hllejMlGEfY)
