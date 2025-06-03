@@ -1,7 +1,7 @@
 # 🎵 Music Playlist Curation Portfolio
 
 Welcome! I'm a backend engineer with a deep passion for music and music discovery.  
-Alongside my technical career, I've curated and organized over 90 playlists across **Bugs Music**, **YouTube**, and **Spotify**—carefully structured by mood, genre, and context.
+Alongside my technical career, I've curated and organized over 90 playlists across **Spotify**, **YouTube**, and **Bugs Music**—carefully structured by mood, genre, and context.
 
 This portfolio showcases a few examples of how I blend listening, categorization, and content structuring.
 
