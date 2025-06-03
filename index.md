@@ -26,7 +26,7 @@ Helping newcomers explore K-pop in an easy and engaging way:
 - [K-rock best vol.1](https://www.youtube.com/watch?v=Y1Gyf1ImwL0)
 - [K-pop best movie OST vol.1](https://www.youtube.com/watch?v=hllejMlGEfY)
 - [K-indie best vol.1](https://www.youtube.com/watch?v=QyO6bo9-uvQ)
-- [More on my channel](https://www.youtube.com/@feelvariousk-pop4150)
+- ... and [more on my channel](https://www.youtube.com/@feelvariousk-pop4150)
 
 ---
 
