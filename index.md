@@ -7,14 +7,15 @@ This portfolio showcases a few examples of how I blend listening, categorization
 
 ---
 
-## 🌈 Bugs Music – Mood & Theme-Based Playlists (50+)
+## 🎧 Spotify – Genre Highlights & Year-End Collections (30+)
 
-My Bugs playlists are centered around everyday moments and emotions.
+On Spotify, I focus on personal listening and genre/year tagging.
 
-- [Songs About Daily Life](https://music.bugs.co.kr/musicpd/albumview/8017)
-- [Though We're Apart Now](https://music.bugs.co.kr/musicpd/albumview/4671)
-- [Do You Like Rom-Coms?](https://music.bugs.co.kr/musicpd/albumview/2257)
-- …and more playlists [here (original)](https://music.bugs.co.kr/musicpd/pdlistdetail/823?tp=es_album&order=view) and [auto-translated](https://music-bugs-co-kr.translate.goog/musicpd/pdlistdetail/823?tp=es_album&order=view&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Dive into Grunge](https://open.spotify.com/playlist/6vRj4KF2xCbfbXMCQaiLV5?si=6c42975146d0479f&pt=3bf83034c8350848ee43cf254d571c4f)
+- [Hair Metal Driving](https://open.spotify.com/playlist/58MMXhHLUXeuIsHcnfWZaY?si=89e4ddbb853d4bc1)
+- [K-POP remakes & originals](https://open.spotify.com/playlist/14LEppsDVPgjTuKoC0mq5r?si=46e9fa2748dc4cc9)
+
+📌 *Many of these are personal or private. Happy to share more on request.*
 
 ---
 
@@ -29,15 +30,16 @@ Helping newcomers explore K-pop in an easy and engaging way:
 
 ---
 
-## 🎧 Spotify – Genre Highlights & Year-End Collections (30+)
+## 🌈 Bugs Music – Mood & Theme-Based Playlists (50+)
 
-On Spotify, I focus on personal listening and genre/year tagging.
+My Bugs playlists are centered around everyday moments and emotions.
 
-- [Dive into Grunge](https://open.spotify.com/playlist/6vRj4KF2xCbfbXMCQaiLV5?si=6c42975146d0479f&pt=3bf83034c8350848ee43cf254d571c4f)
-- [Hair Metal Driving](https://open.spotify.com/playlist/58MMXhHLUXeuIsHcnfWZaY?si=89e4ddbb853d4bc1)
-- [K-POP remakes & originals](https://open.spotify.com/playlist/14LEppsDVPgjTuKoC0mq5r?si=46e9fa2748dc4cc9)
-
-📌 *Many of these are personal or private. Happy to share more on request.*
+- [Songs About Daily Life](https://music.bugs.co.kr/musicpd/albumview/8017)
+- [Though We're Apart Now](https://music.bugs.co.kr/musicpd/albumview/4671)
+- [Do You Like Rom-Coms?](https://music.bugs.co.kr/musicpd/albumview/2257)
+- …and more playlists [here (original)](https://music.bugs.co.kr/musicpd/pdlistdetail/823?tp=es_album&order=view) and [auto-translated](https://music-bugs-co-kr.translate.goog/musicpd/pdlistdetail/823?tp=es_album&order=view&_x_tr_sl=ko&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ---
+
+
 
